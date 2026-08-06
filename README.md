@@ -24,15 +24,15 @@ Passionate about Artificial Intelligence • Learning in Public • Building Rea
 
 # 👨‍💻 About Me
 
-🎓 Master's in **Data Science, Analytics & AI by It Vedant pvt Ltd**
+🎓 Postgraduate training in **Data Science, Analytics & AI** at **IT Vedant**
 
-🤖 Aspiring AI Engineer focused on building intelligent applications using modern AI technologies.
+🤖 Aspiring AI Engineer passionate about building intelligent applications that solve real-world problems.
 
-🚀 Currently strengthening my foundation in **Python, Data Structures & Algorithms, Machine Learning, Deep Learning, and Generative AI** through hands-on projects.
+📚 I have built a strong foundation in **Python, Machine Learning, and Deep Learning**, and I'm currently expanding my expertise in **Generative AI, Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), Agentic AI, and modern AI application development**.
 
-🧠 Exploring **Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), Agentic AI, and AI Agents** while learning how to build practical AI applications.
+🚀 My goal is to build end-to-end AI systems that combine strong engineering principles with modern AI technologies.
 
-🌱 I believe the best way to grow is by **Learning • Building • Sharing**. Every repository represents a step in my journey toward becoming an AI Engineer.
+🌱 I believe the best way to grow is by **Learning • Building • Sharing**. Every project on this GitHub represents a step in my journey toward becoming an AI Engineer.
 
 📍 Mumbai Metropolitan Region, India
 
@@ -41,13 +41,12 @@ Passionate about Artificial Intelligence • Learning in Public • Building Rea
 # 🎯 AI Engineer Roadmap
 
 | Stage | Status |
-|-------|--------|
+|---------|:------:|
 | Python Programming | ✅ |
 | SQL | ✅ |
 | Data Analytics | ✅ |
-| Data Structures & Algorithms | 🔄 |
-| Machine Learning | 🔄 |
-| Deep Learning | 🔄 |
+| Machine Learning | ✅ |
+| Deep Learning | ✅ |
 | Generative AI | 🔄 |
 | Large Language Models (LLMs) | 🔄 |
 | LangChain Ecosystem | 🔄 |
@@ -60,13 +59,12 @@ Passionate about Artificial Intelligence • Learning in Public • Building Rea
 
 # 🚀 Current Focus
 
-- 🧠 Strengthening Python & Problem Solving
-- 📚 Learning Data Structures & Algorithms
-- 🤖 Studying Machine Learning & Deep Learning
-- ✨ Exploring Generative AI & Large Language Models
+- 🤖 Building Generative AI Applications
+- 🧠 Exploring Large Language Models (LLMs)
 - 🔗 Learning the LangChain Ecosystem
-- 🤖 Understanding AI Agents & Agentic AI
-- 💻 Building Real-World AI Projects
+- 📄 Building Retrieval-Augmented Generation (RAG) Applications
+- 🤖 Exploring AI Agents & Agentic AI
+- 💻 Building End-to-End AI Projects
 - 🌍 Learning in Public through GitHub & LinkedIn
 
 ---
@@ -75,30 +73,30 @@ Passionate about Artificial Intelligence • Learning in Public • Building Rea
 
 | Project | Description |
 |----------|-------------|
-| 🎓 Student Engagement Risk Prediction System | Machine Learning system for predicting student engagement risk with Explainable AI and Streamlit deployment. |
+| 🎓 Student Engagement Risk Prediction System | Machine Learning application with Explainable AI and Streamlit deployment. |
 | 📱 Telecom Customer Churn Prediction | End-to-end Machine Learning application using Scikit-learn and Streamlit. |
-| 🛒 Blinkit Sales & Customer Analytics Dashboard | Business Intelligence dashboard built with Power BI and SQL. |
+| 🛒 Blinkit Sales & Customer Analytics Dashboard | Business Intelligence dashboard built using SQL and Power BI. |
 | 👥 HR Analytics Dashboard | Interactive Power BI dashboard for workforce analytics and employee attrition insights. |
 
-> 🚀 More AI projects coming soon...
->
-> - CardioSense AI
-> - MindCare AI
-> - RAG Applications
-> - AI Agents
-> - LLM-powered Applications
+### 🚀 Upcoming AI Projects
+
+- 🩺 CardioSense AI
+- 🧠 MindCare AI
+- 📄 RAG Applications
+- 🤖 AI Agents
+- 💬 LLM-powered Applications
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming
+## Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### Artificial Intelligence & Machine Learning
+## Artificial Intelligence & Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -106,23 +104,23 @@ Passionate about Artificial Intelligence • Learning in Public • Building Rea
 
 ---
 
-### Data
+## Data
 
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-### Visualization
+## Data Visualization
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-### Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -130,7 +128,7 @@ Passionate about Artificial Intelligence • Learning in Public • Building Rea
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -150,17 +148,17 @@ Passionate about Artificial Intelligence • Learning in Public • Building Rea
 
 I believe consistent learning creates lasting growth.
 
-This GitHub is a reflection of my journey as I learn, build, experiment, and share projects in Artificial Intelligence.
+This GitHub documents my journey toward becoming an AI Engineer through projects, experiments, and continuous learning.
 
-Every repository represents a new concept explored, a problem solved, and a step forward toward becoming an AI Engineer.
+Every repository reflects a concept explored, a problem solved, and another step toward building intelligent AI applications.
 
 ---
 
 # 📫 Let's Connect
 
-I'm always happy to connect with learners, developers, and professionals interested in AI, Machine Learning, and Generative AI.
+I'm always happy to connect with learners, developers, and professionals interested in Artificial Intelligence, Machine Learning, and Generative AI.
 
-📧 **Email:** musharrafbubere007@gmail.com
+📧 **Email:** `musharrafbubere007@gmail.com`
 
 💼 **LinkedIn:** https://linkedin.com/in/musharraf-bubere007
 
@@ -170,6 +168,8 @@ I'm always happy to connect with learners, developers, and professionals interes
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! If you like my work, consider following my journey as I continue learning, building, and sharing AI projects.
+⭐ Thanks for visiting my profile!
+
+I'm excited to share my journey as I continue learning, building, and contributing to the world of Artificial Intelligence.
 
 </p>
