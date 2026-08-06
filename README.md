@@ -26,13 +26,13 @@ Learning • Building • Sharing
 
 🎓 Postgraduate training in **Data Science, Analytics & AI** at **IT Vedant**
 
-🤖 I'm an aspiring AI Engineer passionate about building intelligent applications that solve real-world problems.
+🤖 Aspiring AI Engineer passionate about building intelligent applications that solve real-world problems through Artificial Intelligence.
 
-📚 I have built a strong foundation in **Python, Machine Learning, and Deep Learning**, and I'm currently expanding my expertise in **Generative AI, Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), Agentic AI, and AI Engineering**.
+📚 I have built a solid foundation in **Python, Machine Learning, and Deep Learning**, and I'm currently expanding my expertise in **Generative AI, Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), Agentic AI, and modern AI Engineering**.
 
-🚀 My goal is to build end-to-end AI systems that combine strong software engineering principles with modern AI technologies.
+🚀 My goal is to design and build end-to-end AI systems that combine strong software engineering principles with modern AI technologies.
 
-🌱 I believe the best way to grow is by **Learning • Building • Sharing**. Every repository represents a step forward in my AI engineering journey.
+🌱 I believe the best way to learn is by **Learning • Building • Sharing**. Every repository on this GitHub represents another step in my journey toward becoming an AI Engineer.
 
 📍 Mumbai Metropolitan Region, India
 
@@ -82,26 +82,26 @@ Learning • Building • Sharing
 
 # 🛠️ Tech Stack
 
-### Programming
+### 💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Artificial Intelligence & Machine Learning
+### 🤖 AI & Machine Learning
 
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Data
+### 📊 Data
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Data Visualization
+### 📈 Visualization
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Tools
+### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -113,8 +113,8 @@ Learning • Building • Sharing
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musharraf-Bubere&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musharraf-Bubere&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Musharraf-Bubere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musharraf-Bubere&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -125,13 +125,13 @@ I believe consistent learning creates lasting growth.
 
 This GitHub documents my journey toward becoming an AI Engineer through projects, experiments, and continuous learning.
 
-Every repository represents a new concept explored, a problem solved, and another step toward building intelligent AI applications.
+Every repository represents a concept explored, a problem solved, and another step toward building intelligent AI applications.
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always happy to connect with learners, developers, and professionals interested in Artificial Intelligence, Machine Learning, and Generative AI.
+I'm always happy to connect with learners, developers, and professionals passionate about Artificial Intelligence, Machine Learning, Generative AI, and software development.
 
 📧 **Email:** `musharrafbubere007@gmail.com`
 
@@ -143,8 +143,8 @@ I'm always happy to connect with learners, developers, and professionals interes
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Every expert was once a beginner. Every project is one step closer to becoming the AI Engineer I aspire to be."*
+*"Learning every day. Building with purpose. Growing into an AI Engineer."*
 
 </p>
