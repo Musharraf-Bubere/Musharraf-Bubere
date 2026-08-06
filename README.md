@@ -24,7 +24,7 @@ Passionate about Artificial Intelligence • Learning in Public • Building Rea
 
 # 👨‍💻 About Me
 
-🎓 Master's in **Data Science, Analytics & AI**
+🎓 Master's in **Data Science, Analytics & AI by It Vedant pvt Ltd**
 
 🤖 Aspiring AI Engineer focused on building intelligent applications using modern AI technologies.
 
