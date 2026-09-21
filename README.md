@@ -1,14 +1,18 @@
 <h1 align="center">Hi, I'm Musharraf Bubere 👋</h1>
 
 <h3 align="center">
-Aspiring AI Engineer | Building Intelligent AI Applications
+AI Engineer | Generative AI · Agentic AI · Machine Learning
 </h3>
 
 <p align="center">
-Learning • Building • Sharing
+I build LLM-powered systems end to end: multi-agent workflows, embedding-based matching, and explainable ML.
 </p>
 
 <p align="center">
+  <a href="https://musharraf-bubere.github.io/musharraf-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
   <a href="https://linkedin.com/in/musharraf-bubere007">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,87 +28,85 @@ Learning • Building • Sharing
 
 # 👨‍💻 About Me
 
-🎓 Postgraduate training in **Data Science, Analytics & AI** at **IT Vedant**
+🤖 AI Engineer focused on **Generative AI and Agentic AI**, building LLM-powered applications from data to deployment.
 
-🤖 Aspiring AI Engineer passionate about building intelligent applications that solve real-world problems through Artificial Intelligence.
+🎓 Completed the **Master's Program in Data Science, Analytics & AI** at **IT Vedant** (course certification).
 
-📚 I have built a solid foundation in **Python, Machine Learning, and Deep Learning**, and I'm currently expanding my expertise in **Generative AI, Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), Agentic AI, and modern AI Engineering**.
+💼 **Data Science Intern** at Digital Ipsum Pvt. Ltd. (June – July 2026), where I built MindSense AI.
 
-🚀 My goal is to design and build end-to-end AI systems that combine strong software engineering principles with modern AI technologies.
-
-🌱 I believe the best way to learn is by **Learning • Building • Sharing**. Every repository on this GitHub represents another step in my journey toward becoming an AI Engineer.
+📊 My analytics foundation (Python, SQL, Power BI) means I start from the business problem behind every model.
 
 📍 Mumbai Metropolitan Region, India
 
----
-
-# 🎯 AI Engineering Roadmap
-
-| Technology | Status |
-|------------|:------:|
-| Python | ✅ |
-| SQL | ✅ |
-| Data Analytics | ✅ |
-| Machine Learning | ✅ |
-| Deep Learning | ✅ |
-| Generative AI | 🔄 |
-| Large Language Models (LLMs) | 🔄 |
-| LangChain | 🔄 |
-| Retrieval-Augmented Generation (RAG) | ⏳ |
-| AI Agents & Agentic AI | ⏳ |
-| AI Deployment | ⏳ |
-| MLOps | ⏳ |
+🔎 **Open to** AI Engineer, Generative AI, Agentic AI, and ML Engineer roles.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Flagship Projects
 
-- 🤖 Building Generative AI Applications
-- 🧠 Exploring Large Language Models (LLMs)
-- 🔗 Learning the LangChain Ecosystem
-- 📄 Building Retrieval-Augmented Generation (RAG) Applications
-- 🤖 Exploring AI Agents & Agentic AI
-- 💻 Building End-to-End AI Projects
-- 🌍 Learning in Public through GitHub & LinkedIn
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| 🧳 [**AI Travel Planner**](https://github.com/Musharraf-Bubere/ai-travel-planner) | Multi-agent system that turns preferences, trip requirements, and constraints into personalised itineraries. LangGraph orchestrates specialised Gemini agents with MCP and API tools, using parallel and conditional workflows. | LangGraph, Gemini, MCP, FastAPI, Streamlit, Docker, GCP |
+| 👥 [**Hirely**](https://github.com/Musharraf-Bubere/Hirely) | AI recruitment backend for candidate–job matching, resume parsing, and ranking. Hybrid scoring (50/20/30) combines deterministic skill matching with 768-dim Gemini embeddings. JWT auth and RBAC for Candidates and Recruiters. | FastAPI, Gemini, Docling, PostgreSQL, SQLAlchemy, Alembic, Pydantic |
+| 🧠 [**MindSense AI**](https://github.com/Musharraf-Bubere/MindSense-AI) | Mental health risk prediction web app with SHAP explanations, PDF reports, and an analytics dashboard. Logistic Regression: 96% accuracy, 95% precision, 94% recall, 95% F1. | Python, Scikit-learn, SHAP, Flask, SQLite |
 
 ---
 
-# ⭐ Featured Projects
+# 📂 More Projects
 
 | Project | Description |
-|----------|-------------|
-| 🎓 Student Engagement Risk Prediction System | Machine Learning application with Explainable AI and Streamlit deployment. |
-| 📱 Telecom Customer Churn Prediction | End-to-end Machine Learning application using Scikit-learn and Streamlit. |
-| 🛒 Blinkit Sales & Customer Analytics Dashboard | Business Intelligence dashboard built using SQL and Power BI. |
-| 👥 HR Analytics Dashboard | Interactive dashboard for workforce analytics and employee attrition insights. |
+|---------|-------------|
+| 🛡️ [NetSage AI](https://github.com/Musharraf-Bubere/netsage-ai) | AI-powered network forensic analysis and threat intelligence platform built with Flask and Scapy. |
+| 📱 [Telecom Customer Churn Prediction](https://github.com/Musharraf-Bubere/Telecom_Customer_Churn_Prediction_using_Machine_Learning) | EDA on 7,000+ customer records, four models compared, deployed as a Streamlit churn dashboard. |
+| 🎓 [Student Engagement Risk Prediction](https://github.com/Musharraf-Bubere/student-engagement-risk-prediction-recommendation-system) | ML application with Explainable AI and Streamlit deployment. |
+| 🛒 [Blinkit Sales & Customer Analytics](https://github.com/Musharraf-Bubere/Blinkit-Sales-Customer-Analytics-Dashboard) | 4-page Power BI dashboard built with SQL and DAX. |
+| 👥 [HR Analytics Dashboard](https://github.com/Musharraf-Bubere/HR_Data_Analytics_Dashboard) | Interactive workforce and employee attrition dashboard in Power BI. |
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### 🤖 Generative AI & Agents
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🧠 Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-FF0051?style=for-the-badge)
 
-### 📊 Data
+### ⚙️ Backend & Deployment
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 📊 Data & Visualization
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 📈 Visualization
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### ⚙️ Tools
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -119,25 +121,15 @@ Learning • Building • Sharing
 
 ---
 
-# 🌱 Learning in Public
-
-I believe consistent learning creates lasting growth.
-
-This GitHub documents my journey toward becoming an AI Engineer through projects, experiments, and continuous learning.
-
-Every repository represents a concept explored, a problem solved, and another step toward building intelligent AI applications.
-
----
-
 # 🤝 Let's Connect
 
-I'm always happy to connect with learners, developers, and professionals passionate about Artificial Intelligence, Machine Learning, Generative AI, and software development.
+I'm happy to connect with recruiters, engineers, and teams working on Generative AI, agentic systems, and applied machine learning.
 
 📧 **Email:** `musharrafbubere007@gmail.com`
 
 💼 **LinkedIn:** https://linkedin.com/in/musharraf-bubere007
 
-🐙 **GitHub:** https://github.com/Musharraf-Bubere
+🌐 **Portfolio:** https://musharraf-bubere.github.io/musharraf-portfolio/
 
 ---
 
@@ -145,6 +137,6 @@ I'm always happy to connect with learners, developers, and professionals passion
 
 ## ⭐ Thanks for visiting my profile!
 
-*"Learning every day. Building with purpose. Growing into an AI Engineer."*
+*"Building AI systems with purpose."*
 
 </p>
