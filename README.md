@@ -20,8 +20,6 @@ I turn raw data into clear business insights, and I also build ML and AI applica
   <a href="mailto:musharrafbubere007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Musharraf-Bubere&style=for-the-badge&color=0A66C2"/>
 </p>
 
 ---
